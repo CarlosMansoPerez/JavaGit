@@ -8,6 +8,7 @@ public class TrabajoEED {
 		String i = "Pilar";
 		
 		System.out.println("Hola "+i);
+		System.out.println("Esto es para el trabajo");
 	}
 
 }
