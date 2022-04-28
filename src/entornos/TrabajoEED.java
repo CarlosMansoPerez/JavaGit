@@ -5,7 +5,9 @@ public class TrabajoEED {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 
-		System.out.println("Hola Pilar");
+		String i = "Pilar";
+		
+		System.out.println("Hola "+i);
 	}
 
 }
